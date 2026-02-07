@@ -68,3 +68,16 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPla
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK 36" tvg-name="RTHK 36" tvg-logo="" group-title="•香港2",RTHK 36
 https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
+
+#EXTINF:-1 tvg-id="翡翠台 4K" tvg-name="翡翠台 4K" tvg-logo="" group-title="•海外「集合」",翡翠台 4K
+https://cdn6.163189.xyz/163189/fct4k
+#EXTINF:-1 tvg-id="翡翠台「字幕」" tvg-name="翡翠台「字幕」" tvg-logo="" group-title="•海外「集合」",翡翠台「字幕」
+https://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-id="明珠台「字幕」" tvg-name="明珠台「字幕」" tvg-logo="" group-title="•海外「集合」",明珠台「字幕」
+https://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="" group-title="•海外「集合」",TVB Plus
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="" group-title="•海外「集合」",無綫新聞台
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="" group-title="•海外「集合」",Now新聞台
+https://cdn.163189.xyz/163189/now

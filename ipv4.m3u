@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="香港",翡翠台
-https://cdn.yang-1989.xyz/hk/65sayk?token=50d9c57df4b25208eaaaf0d4874f4746a79422c947e3b997
+https://cdn.qd.je/163189/fct
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/明珠台.png" group-title="香港",明珠台
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-name="無線新聞" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/無線新聞.png" group-title="香港",無線新聞
@@ -11,7 +11,7 @@ https://cdn.yang-1989.xyz/hk/hcupvt?token=50d9c57df4b25208eaaaf0d4874f4746a79422
 #EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="香港",TVB J1
 https://cdn.qd.je/163189.php?id=j1
 #EXTINF:-1 tvg-name="TVB Drama" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="香港",TVB Drama
-https://cdn.qd.je/163189.php?id=tvbd
+https://cdn.qd.je/163189/tvbd
 #EXTINF:-1 tvg-name="TVB 1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="香港",TVB 1
 https://cdn.qd.je/163189.php?id=tvb1
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/ViuTV.png" group-title="香港",ViuTV
